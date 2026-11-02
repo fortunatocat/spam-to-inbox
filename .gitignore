@@ -1,0 +1,9 @@
+accounts.txt
+config.json
+__pycache__/
+*.py[cod]
+*.log
+.env
+.env.*
+pending.sqlite*
+run.lock

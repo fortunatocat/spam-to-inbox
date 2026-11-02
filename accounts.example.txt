@@ -1,0 +1,3 @@
+# One mailbox per line: login:password. Replace these fictional examples.
+you@example.com:EXAMPLE_PASSWORD_1
+other@example.com:EXAMPLE_PASSWORD_2

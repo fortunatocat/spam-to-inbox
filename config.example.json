@@ -1,0 +1,19 @@
+{
+  "days": 3,
+  "interval_seconds": 600,
+  "threads": 2,
+  "timeout_seconds": 30,
+  "accounts_file": "accounts.txt",
+  "imap": {
+    "host": "imap.example.com",
+    "port": 993,
+    "security": "ssl",
+    "spam_folders": ["Spam", "Junk", "Спам", "[Gmail]/Spam"],
+    "inbox_folder": "INBOX"
+  },
+  "pop3": {
+    "host": "pop.example.com",
+    "port": 995,
+    "security": "ssl"
+  }
+}
